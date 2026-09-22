@@ -1,16 +1,34 @@
-# React + Vite
+# 🛒 Computer Accessories Deals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based product deals webpage showcasing computer accessories with a clean and responsive card-based layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Product cards
+- Product images
+- Product descriptions
+- Original and discounted prices
+- Responsive layout
+- React component-based structure
+- Dynamic rendering using JavaScript objects and map()
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A product grid displaying computer accessories with their images, descriptions, and discounted prices.
+<img width="1797" height="877" alt="image" src="https://github.com/user-attachments/assets/b037f41b-ddb3-4361-a578-33dc98a60577" />
+
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+(https://github.com/Archana-Priyadarshini16/computer-accessories-react.git)

@@ -31,4 +31,4 @@ A product grid displaying computer accessories with their images, descriptions, 
 Clone the repository:
 
 ```bash
-https://github.com/Archana-Priyadarshini16/computer-accessories-react
+(https://github.com/Archana-Priyadarshini16/computer-accessories-react.git)

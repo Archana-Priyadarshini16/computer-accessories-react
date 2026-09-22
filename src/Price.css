@@ -1,0 +1,19 @@
+.Price {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 0px 0px 20px 20px;
+  gap: 10px;
+  padding: 10px;
+  background-color: yellow;
+  justify-content: center;
+}
+
+.Price .old {
+  text-decoration: line-through;
+}
+
+.Price .new {
+  font-weight: bold;
+}
